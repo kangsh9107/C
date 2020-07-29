@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\C2\Debug\C2.exe
+C:\Users\admin\source\repos\C2\Debug\C2.pdb
